@@ -1,0 +1,14 @@
+ID=3 name=Doll
+ID=3 name=Doll
+ID=3 name=Doll
+ID=1 name=Constructor
+ID=1 name=Constructor
+ID=3 name=Doll
+ID=2 name=Robot
+ID=3 name=Doll
+ID=2 name=Robot
+ID=3 name=Doll
+ID=4 name=Ball
+ID=4 name=Car
+ID=4 name=Ball
+ID=4 name=Car
